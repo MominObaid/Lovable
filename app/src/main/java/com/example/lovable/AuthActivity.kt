@@ -5,17 +5,17 @@ import android.os.Bundle
 import android.util.Patterns
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.lovable.databinding.ActivityMainBinding
+import com.example.lovable.databinding.AuthActivityBinding
 
 class AuthActivity : AppCompatActivity() {
 
-    private lateinit var binding: ActivityMainBinding
+    private lateinit var binding: AuthActivityBinding
     private lateinit var sessionManager: SessionManager
     private var isLoginMode = true
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityMainBinding.inflate(layoutInflater)
+        binding = AuthActivityBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
         sessionManager = SessionManager(this)
