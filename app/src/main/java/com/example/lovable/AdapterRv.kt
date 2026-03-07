@@ -32,7 +32,7 @@ class AdapterRv(private val itemRV: List<ItemRV>) : RecyclerView.Adapter<Adapter
         holder.tvName.text = item.name
         holder.tvDetail.text = item.detail
         holder.tvDetailHashtag.text = item.detailHashtag
-        holder.tvTime.text = item.time.toString()
+        holder.tvTime.text = item.time
 
    }
 
