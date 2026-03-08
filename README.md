@@ -1,4 +1,5 @@
 📱 Lovable - 
+
 Modern Productivity HubLovable is a sleek, modern Android productivity dashboard designed with a focus on user experience and "Glassmorphism" aesthetics. 
 
 It features a robust authentication system and a high-performance home dashboard for tracking team activities, meetings, and tasks.
@@ -50,11 +51,13 @@ Key Features•
 
 📸 Screenshots| 
 
-Login Screen |
+Login/Sign Up Screen | ![IMG_20260308_164210](https://github.com/user-attachments/assets/2f257594-ee7a-414e-ad0e-93f8dc70d5a0)
+![IMG_20260308_164233](https://github.com/user-attachments/assets/f9367e76-3e8b-44af-a681-b48e66a559f2)
+
 
 Dashboard |
 
-Navigation Drawer | | :---: | :---: | :---: | | Auth | Home | Menu | 
+Navigation Drawer | Auth | Home | Menu | 
 
 
 🚀 Getting Started Prerequisites
