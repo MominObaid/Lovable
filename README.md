@@ -49,7 +49,8 @@ Key Features•
 
 
 
-📸 Screenshots| 
+📸 Screenshots| Auth | Dashboard | Menu
+
 
 Login/Sign Up Screen | ![IMG_20260308_164210](https://github.com/user-attachments/assets/2f257594-ee7a-414e-ad0e-93f8dc70d5a0)
 
