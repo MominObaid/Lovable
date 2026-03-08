@@ -52,10 +52,12 @@ Key Features•
 📸 Screenshots| 
 
 Login/Sign Up Screen | ![IMG_20260308_164210](https://github.com/user-attachments/assets/2f257594-ee7a-414e-ad0e-93f8dc70d5a0)
+
 ![IMG_20260308_164233](https://github.com/user-attachments/assets/f9367e76-3e8b-44af-a681-b48e66a559f2)
 
 
-Dashboard |
+Dashboard | ![IMG_20260308_164327](https://github.com/user-attachments/assets/186dc058-a1a2-4ce6-bb17-0382e1eb63fb)
+
 
 Navigation Drawer | Auth | Home | Menu | 
 
