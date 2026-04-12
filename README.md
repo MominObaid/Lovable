@@ -1,4 +1,5 @@
-📱  Lovable - 
+📱 **Lovable**
+
 
 Modern Productivity HubLovable is a sleek, modern Android productivity dashboard designed with a focus on user 
 
@@ -9,9 +10,10 @@ It features a robust authentication system and a high-performance home dashboard
 
 Android Kotlin Material3✨ 
 
-Key Features•
+**Key Features**
 
-🔐 Secure Authentication: Dynamic Login/Sign-up toggle with real-time validation and persistent session management.
+
+•🔐 Secure Authentication: Dynamic Login/Sign-up toggle with real-time validation and persistent session management.
 
 •📊 Interactive Dashboard: A grid-based stats overview showing messages, online members, tasks, and meetings.
 
@@ -27,7 +29,8 @@ Key Features•
 
 
 
-🛠 Tech Stack
+🛠 **Tech Stack**
+
 
 •Language: Kotlin
 
@@ -42,7 +45,8 @@ Key Features•
 •ScrollView (Ensuring small-screen compatibility)
 
 
-•Components:
+**•Components:**
+
 
 •MaterialCardView (Custom shadows and corner radii)
 
