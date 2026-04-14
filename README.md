@@ -69,7 +69,8 @@ Navigation Drawer |
 
 
 
-🚀 Getting Started Prerequisites
+🚀**Getting Started Prerequisites**
+
 
 •Android Studio Ladybug or newer.
 
