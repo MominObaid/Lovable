@@ -88,7 +88,7 @@ Navigation Drawer |
 4.Run on an emulator or physical device.
 
 
-📂 Project Structure
+**📂 Project Structure** 
 
 •AuthActivity.kt: Handles Login/Registration logic and UI state toggling.
 
