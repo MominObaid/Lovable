@@ -70,7 +70,7 @@ Navigation Drawer |
 
 
 
-🚀**Getting Started Prerequisites**
+**Getting Started Prerequisites**
 
 
 •Android Studio Ladybug or newer.
@@ -101,4 +101,4 @@ Navigation Drawer |
 
 •activity_home.xml: A complex layout utilizing nested layouts and guidelines for a perfect grid UI.
 
-🤝 Contributing Feel free to fork this project, open issues, or submit pull requests to help improve the UI or add new features like Firebase integration!
+Contributing Feel free to fork this project, open issues, or submit pull requests to help improve the UI or add new features like Firebase integration!
