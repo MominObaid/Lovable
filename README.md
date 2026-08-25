@@ -45,6 +45,8 @@ Android Kotlin Material3✨
 
 •ScrollView (Ensuring small-screen compatibility)
 
+•RecyclerView 
+
 
 **•Components:**
 
